@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A09D5A81F57A0620057C80A /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 0A09D5A71F57A0620057C80A /* readme.md */; };
+		0A09D5AA1F57A0A30057C80A /* excample.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A09D5A91F57A0A30057C80A /* excample.png */; };
 		0A5712791F564F3300FF57C8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A5712781F564F3300FF57C8 /* main.m */; };
 		0A57127C1F564F3300FF57C8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A57127B1F564F3300FF57C8 /* AppDelegate.m */; };
 		0A57127F1F564F3300FF57C8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A57127E1F564F3300FF57C8 /* ViewController.m */; };
@@ -28,6 +30,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A09D5A71F57A0620057C80A /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+		0A09D5A91F57A0A30057C80A /* excample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = excample.png; sourceTree = "<group>"; };
 		0A5712741F564F3300FF57C8 /* similarPacs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = similarPacs.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A5712781F564F3300FF57C8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		0A57127A1F564F3300FF57C8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -79,6 +83,8 @@
 		0A57126B1F564F3300FF57C8 = {
 			isa = PBXGroup;
 			children = (
+				0A09D5A91F57A0A30057C80A /* excample.png */,
+				0A09D5A71F57A0620057C80A /* readme.md */,
 				0A5712761F564F3300FF57C8 /* similarPacs */,
 				0A5712751F564F3300FF57C8 /* Products */,
 			);
@@ -185,7 +191,9 @@
 				0A5712871F564F3300FF57C8 /* LaunchScreen.storyboard in Resources */,
 				0A5712A31F569EB700FF57C8 /* o023.jpg in Resources */,
 				0A5712A21F569EB700FF57C8 /* o024.jpg in Resources */,
+				0A09D5AA1F57A0A30057C80A /* excample.png in Resources */,
 				0A5712A11F569EB700FF57C8 /* o025.jpg in Resources */,
+				0A09D5A81F57A0620057C80A /* readme.md in Resources */,
 				0A57129F1F569EB700FF57C8 /* o027.jpg in Resources */,
 				0A5712951F56598B00FF57C8 /* fuwei.png in Resources */,
 				0A5712911F56534A00FF57C8 /* shou.png in Resources */,
