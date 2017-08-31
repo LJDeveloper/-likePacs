@@ -1,2 +1,2 @@
 # iOS DicomViewer
-![Alt text](/similarPacs/excample.png)
+![Alt text](/pacs/excample.png)
