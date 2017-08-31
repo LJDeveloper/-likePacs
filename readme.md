@@ -1,2 +1,2 @@
 # iOS DicomViewer
-![Alt text](/pacs/excample.png)
+![Alt text](https://github.com/LJDeveloper/pacs/blob/master/excample.png)
